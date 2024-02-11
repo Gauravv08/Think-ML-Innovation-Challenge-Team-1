@@ -65,6 +65,13 @@ The project's success relies on the availability and quality of air quality and 
 ## Accuracy and F1 Score
 ![image](https://github.com/Gauravv08/Think-ML/assets/99554330/5aafa1d6-dd0c-4e7f-87df-781705ac8a9f)
 ![image](https://github.com/Gauravv08/Think-ML/assets/99554330/230f24a7-d819-484f-9229-9d8ffd7fe779)
+# Novelty Factor
+The novelty factor was explored by assessing the model's adaptability to new data and environmental conditions. This involved validation on unseen data and consideration of the model's robustness in predicting AQI in diverse scenarios.
+![image](https://github.com/Gauravv08/Think-ML/assets/99554330/3a6e696c-619c-4c62-8049-404edc694af4)
+# Video Of Code and Model
+# References
+The project drew upon relevant literature, research papers, and online resources for methodologies, data preprocessing techniques, and validation approaches. 
+Altair website was the main source of reference for us as it helped me to easily understnad the application along with model interpretations.
 
 
 
