@@ -1,18 +1,18 @@
 # Think-ML (Team 1)
 --------------------------------------------
-Team Leader - Gaurav Sharma,  
-Year- Third Year, 
-Branch - Electronics and Computer Science,
+Team Leader - Gaurav Sharma     
+Year- Third Year     
+Branch - Electronics and Computer Science    
 Roll No.-48
 --------------------------------------------
-Team Member - Rithvika Sapalya, 
-Year- Third Year, 
-Branch - Electronics and Computer Science,
+Team Member - Rithvika Sapalya     
+Year- Third Year     
+Branch - Electronics and Computer Science       
 Roll No.-46
 --------------------------------------------
-Team Member - Amar Singh, 
-Year- Third Year, 
-Branch - Electronics and Computer Science,
+Team Member - Amar Singh       
+Year- Third Year      
+Branch - Electronics and Computer Science      
 Roll No.-54
 --------------------------------------------
 Hello everyone ,
@@ -70,7 +70,7 @@ The novelty factor was explored by assessing the model's adaptability to new dat
 ![image](https://github.com/Gauravv08/Think-ML/assets/99554330/3a6e696c-619c-4c62-8049-404edc694af4)
 # Video Of Code and Model
 # References
-The project drew upon relevant literature, research papers, and online resources for methodologies, data preprocessing techniques, and validation approaches. 
+The project drew upon relevant literature, research papers, and online resources for methodologies, data preprocessing techniques, and validation approaches.    
 Altair website was the main source of reference for us as it helped me to easily understnad the application along with model interpretations.
 
 
