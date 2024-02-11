@@ -1,5 +1,3 @@
-
-https://github.com/Gauravv08/Think-ML/assets/99554330/3216aae5-6fea-4112-b68b-6cd478df7e53
 # Think-ML (Team 1)
 --------------------------------------------
 Team Leader - Gaurav Sharma,  
@@ -49,8 +47,6 @@ The predictive model exhibited promising results in forecasting Air Quality Inde
 ![Screenshot 2024-02-11 121245](https://github.com/Gauravv08/Think-ML/assets/99554330/7b54c30f-760d-4766-92c7-e7c8e74d4576)
 ## Predictions
 ![predictions](https://github.com/Gauravv08/Think-ML/assets/99554330/675857e5-1316-414e-812a-1e9f23f6d974)
-## Performance
-![performance](https://github.com/Gauravv08/Think-ML/assets/99554330/f9d2aa8a-11f9-433d-b3f4-8ebbc09a1ba3)
 ## Optimal Parameters
 ![optimal parameters](https://github.com/Gauravv08/Think-ML/assets/99554330/e7a9241b-71c0-432b-8395-cac9a4836372)
 ## Lift Chart
@@ -60,9 +56,15 @@ The predictive model exhibited promising results in forecasting Air Quality Inde
 ## Confusion Matrix
 ![confusion matrix](https://github.com/Gauravv08/Think-ML/assets/99554330/1f678d5b-4b4b-4bae-8017-c2cae7378aef)
 ## Output
-![result ](https://github.com/Gauravv08/Think-ML/assets/99554330/f408648a-5701-4163-8355-5aa9a835a4fa)
+![image](https://github.com/Gauravv08/Think-ML/assets/99554330/918e8939-d006-471f-8885-c483e0163674)
 # Dependencies
 The project's success relies on the availability and quality of air quality and weather data. Dependencies also include the proper functioning of machine learning libraries, such as scikit-learn and Seaborn, for data manipulation, visualization, and modeling.
+# Performance , Accuracy and F1 Score
+## Performance
+![performance](https://github.com/Gauravv08/Think-ML/assets/99554330/f9d2aa8a-11f9-433d-b3f4-8ebbc09a1ba3)
+## Accuracy and F1 Score
+![image](https://github.com/Gauravv08/Think-ML/assets/99554330/5aafa1d6-dd0c-4e7f-87df-781705ac8a9f)
+![image](https://github.com/Gauravv08/Think-ML/assets/99554330/230f24a7-d819-484f-9229-9d8ffd7fe779)
 
 
 
