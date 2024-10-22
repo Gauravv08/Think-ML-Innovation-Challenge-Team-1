@@ -1,17 +1,14 @@
 # Air Quality Index Detection Project
 --------------------------------------------
-Team Leader - Gaurav Sharma     
-Year- Third Year     
+Team Leader - Gaurav Sharma        
 Branch - Electronics and Computer Science    
 Roll No.-48
 --------------------------------------------
-Team Member - Rithvika Sapalya     
-Year- Third Year     
+Team Member - Rithvika Sapalya         
 Branch - Electronics and Computer Science       
 Roll No.-46
 --------------------------------------------
-Team Member - Amar Singh       
-Year- Third Year      
+Team Member - Amar Singh            
 Branch - Electronics and Computer Science      
 Roll No.-54
 --------------------------------------------
