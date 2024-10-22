@@ -1,4 +1,4 @@
-# Think-ML (Team 1)
+# Air Quality Index Detection Project
 --------------------------------------------
 Team Leader - Gaurav Sharma     
 Year- Third Year     
