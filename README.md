@@ -2,15 +2,12 @@
 --------------------------------------------
 Team Leader - Gaurav Sharma        
 Branch - Electronics and Computer Science    
-Roll No.-48
 --------------------------------------------
 Team Member - Rithvika Sapalya         
 Branch - Electronics and Computer Science       
-Roll No.-46
 --------------------------------------------
 Team Member - Amar Singh            
 Branch - Electronics and Computer Science      
-Roll No.-54
 --------------------------------------------
 Hello everyone ,
 We are a group of three students preparing a project for an Machine Learning Innovation Challenge.
